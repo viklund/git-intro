@@ -52,16 +52,16 @@ and code review we will meet and discuss a number of typical pitfalls.
 ## After participants have been added as collaborators
 
 
-### 1. Clone [this repository](https://github.com/coderefinery/centralized-workflow-exercise)
+### 1. Clone [this repository](https://github.com/viklund/centralized-workflow-exercise)
 
 If you have set up ssh keys:
 ```
-$ git clone git@github.com:coderefinery/centralized-workflow-exercise.git
+$ git clone git@github.com:viklund/centralized-workflow-exercise.git
 ```
 
 If you have not set up ssh keys:
 ```
-$ git clone https://github.com/coderefinery/centralized-workflow-exercise.git
+$ git clone https://github.com/viklund/centralized-workflow-exercise.git
 ```
 
 If you decide to set up ssh keys later:
@@ -217,7 +217,7 @@ Can we leave out the `-u`?
 Submit a pull request from your branch towards the `master` branch.
 Do this through the web interface.
 
-Finally also discuss https://github.com/coderefinery/centralized-workflow-exercise/network.
+Finally also discuss https://github.com/viklund/centralized-workflow-exercise/network.
 
 ---
 
