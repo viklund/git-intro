@@ -6,13 +6,12 @@ permalink: /
 # Introduction to version control with Git
 
 This is the introductory lesson to version control using
-[Git](https://git-scm.com/). It is assumed to be the very first thing done in a
-course.
+[Git](https://git-scm.com/). The entire course is based on
+[coderefinery's](https://coderefinery.org) excellent course package, lighty
+adjusted.
 
 Our philosophy is that we start from own local repository, branching and
-merging (locally), and a brief introduction to pushing to remotes.  In the
-separate [collaborative git lesson](https://coderefinery.org/lessons/), we
-teach more use of remote repositories and good collaborative workflows.  We
+merging (locally), and a brief introduction to pushing to remotes.  We
 try to stick to simple workflows, just enough for researchers who aren't
 obsessed with git to be able to work well.  We try to avoid commands which
 might get you into a bad state.
